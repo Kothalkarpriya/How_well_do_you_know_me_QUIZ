@@ -2,7 +2,7 @@
 It's an quiz made on me to check how well my friends know me
 <hr>
 
-Their are toatal 10 Questions I have included inside of the Quiz.
+Their are total 10 Questions I have included inside of the Quiz.
 They are quite easy for those who know me.
 # Questions are as follows:
 1. AM I older than 21? 
@@ -18,6 +18,6 @@ They are quite easy for those who know me.
 
 The user need to give one word answer to the respective question.
 
-Thank you for visiting!
+Thank you for visiting! 
 
 # _priya_kothalkar_
